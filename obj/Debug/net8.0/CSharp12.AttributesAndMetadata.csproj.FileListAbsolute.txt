@@ -1,0 +1,14 @@
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\obj\Debug\net8.0\CSharp12.AttributesAndMetadata.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\obj\Debug\net8.0\CSharp12.AttributesAndMetadata.AssemblyInfoInputs.cache
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\obj\Debug\net8.0\CSharp12.AttributesAndMetadata.AssemblyInfo.cs
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\obj\Debug\net8.0\CSharp12.AttributesAndMetadata.csproj.CoreCompileInputs.cache
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\bin\Debug\net8.0\CSharp12.AttributesAndMetadata.exe
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\bin\Debug\net8.0\CSharp12.AttributesAndMetadata.deps.json
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\bin\Debug\net8.0\CSharp12.AttributesAndMetadata.runtimeconfig.json
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\bin\Debug\net8.0\CSharp12.AttributesAndMetadata.dll
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\bin\Debug\net8.0\CSharp12.AttributesAndMetadata.pdb
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\obj\Debug\net8.0\CSharp12.AttributesAndMetadata.dll
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\obj\Debug\net8.0\refint\CSharp12.AttributesAndMetadata.dll
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\obj\Debug\net8.0\CSharp12.AttributesAndMetadata.pdb
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\obj\Debug\net8.0\CSharp12.AttributesAndMetadata.genruntimeconfig.cache
+I:\GitHub\csharp-12-attributes-metadata\CSharp12.AttributesAndMetadata.Solution\obj\Debug\net8.0\ref\CSharp12.AttributesAndMetadata.dll

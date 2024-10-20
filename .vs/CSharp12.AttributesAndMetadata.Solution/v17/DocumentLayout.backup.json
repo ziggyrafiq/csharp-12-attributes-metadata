@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.csproj|i:\\github\\csharp-12-attributes-metadata\\csharp12.attributesandmetadata.solution\\ziggycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.csproj|solutionrelative:ziggycomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.csproj|i:\\github\\csharp-12-attributes-metadata\\csharp12.attributesandmetadata.solution\\componentinfoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.csproj|solutionrelative:componentinfoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.csproj|i:\\github\\csharp-12-attributes-metadata\\csharp12.attributesandmetadata.solution\\versioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.csproj|solutionrelative:versioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.Solution.csproj|i:\\github\\csharp-12-attributes-metadata\\csharp12.attributesandmetadata.solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.Solution.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.Solution.csproj|i:\\github\\csharp-12-attributes-metadata\\csharp12.attributesandmetadata.solution\\developerinfoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.Solution.csproj|solutionrelative:developerinfoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.Solution.csproj|i:\\github\\csharp-12-attributes-metadata\\csharp12.attributesandmetadata.solution\\exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF129C83-1BB4-4C68-A866-BFD354D6C6FC}|CSharp12.AttributesAndMetadata.Solution.csproj|solutionrelative:exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VersionInfo.cs",
+              "DocumentMoniker": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\VersionInfo.cs",
+              "RelativeDocumentMoniker": "VersionInfo.cs",
+              "ToolTip": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\VersionInfo.cs",
+              "RelativeToolTip": "VersionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:16:57.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZiggyComponent.cs",
+              "DocumentMoniker": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\ZiggyComponent.cs",
+              "RelativeDocumentMoniker": "ZiggyComponent.cs",
+              "ToolTip": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\ZiggyComponent.cs",
+              "RelativeToolTip": "ZiggyComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:13:31.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComponentInfoAttribute.cs",
+              "DocumentMoniker": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\ComponentInfoAttribute.cs",
+              "RelativeDocumentMoniker": "ComponentInfoAttribute.cs",
+              "ToolTip": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\ComponentInfoAttribute.cs",
+              "RelativeToolTip": "ComponentInfoAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:13:01.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExampleClass.cs",
+              "DocumentMoniker": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\ExampleClass.cs",
+              "RelativeDocumentMoniker": "ExampleClass.cs",
+              "ToolTip": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\ExampleClass.cs",
+              "RelativeToolTip": "ExampleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:08:07.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeveloperInfoAttribute.cs",
+              "DocumentMoniker": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\DeveloperInfoAttribute.cs",
+              "RelativeDocumentMoniker": "DeveloperInfoAttribute.cs",
+              "ToolTip": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\DeveloperInfoAttribute.cs",
+              "RelativeToolTip": "DeveloperInfoAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:07:17.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "I:\\GitHub\\csharp-12-attributes-metadata\\CSharp12.AttributesAndMetadata.Solution\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:06:45.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
